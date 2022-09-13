@@ -1,1 +1,1 @@
-# JavaScript_project1
+# Dictionary App
